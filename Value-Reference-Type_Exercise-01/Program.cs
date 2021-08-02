@@ -14,7 +14,7 @@ namespace Value_and_Reference_Types_Exercise_01
     {
         private static void Main(string[] args)
         {
-            #region Value Type TODOs w/ answers
+            #region Value Type TODOs 
 
             // TODO: Declare and initialize 3 value type variables of types: double, int, and string
             double myDouble = .005;
@@ -44,7 +44,7 @@ namespace Value_and_Reference_Types_Exercise_01
 
             AddSection();
 
-            #region Reference Type TODOs w/ answers
+            #region Reference Type TODOs
 
             // TODO: Use the 4 reference type variables that are already declared and initialized below
             StringBuilder sb = new StringBuilder("The starting string's value.");
